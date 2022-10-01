@@ -9,7 +9,6 @@ I am a systems engineer, with knowledge in:
 I am a very persevering person, respectful and passionate about what I do.
 I am in learning 😊
 
-<!--
 **geraldinRiav/geraldinRiav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -22,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: wpp: 3185390064
 - ⚡ Fun fact: I like that the work environment is agrdable
 and thus be able to offer the best of myself
--->
+
